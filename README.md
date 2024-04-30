@@ -1,5 +1,9 @@
 # Server Setup - Add Client-PC
 
+
+![2](https://github.com/kendal-in-tech/Server-Setup-Add-Client-PC/assets/168005414/8405af26-7c75-4fc9-974f-f7e648320411)
+
+
 In this lab we will install and configure a Windows 10 Client PC and add it to our Domain we created in https://github.com/kendal-in-tech/Server-Setup---Active-Directory-
 
 1. Download Windows 10 ISO from Microsoft Evaluation Center.
